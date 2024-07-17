@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/basic_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/basic_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/basic_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application/build" />
+      <excludeFolder url="file://$MODULE_DIR$/input_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/input_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/input_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/layout_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/layout_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/layout_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_widget/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
